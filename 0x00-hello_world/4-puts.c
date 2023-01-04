@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - function test puts function in c
+ * main - main block
  * return: 0
  */
 int main(void)

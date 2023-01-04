@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - function test puts function in c
  * return: 0
  */

@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+ * main function test puts function in c
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
